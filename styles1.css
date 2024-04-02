@@ -1,0 +1,128 @@
+.header {
+            margin-left: auto;
+            margin-right: auto;
+            width: 400px;
+            height: 700px;
+            padding-left: 20px;
+            max-width: 500px;
+            background-color: #efefef;
+
+
+        }
+
+
+        body {
+            background-color: #138075;
+            padding-left: auto;
+            padding-right: auto;
+
+
+        }
+
+        .head {
+            text-align: center;
+            padding-top: 80px;
+            margin-bottom: 10px;
+            padding-bottom: 0px;
+            color: #1d1d1d;
+
+        }
+
+        .head2 {
+            padding-top: 0px;
+            text-align: center;
+            margin-bottom: 40px;
+
+        }
+
+        .user {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 8px;
+            margin-top: 17px;
+        }
+
+
+        .detail {
+            display: block;
+            width: 25em;
+            height: 2em;
+        }
+
+
+
+        .but1 {
+            text-align: center;
+
+        }
+
+        .forget {
+            text-decoration: none;
+            font-weight: bold;
+            color: #5353de;
+            padding-right: 60px;
+            text-align: right;
+
+
+        }
+
+        .forget {
+            text-decoration: none;
+
+        }
+        . forget:hover {
+            cursor: pointer;
+
+
+        }
+        .but1 {
+            text-align: center;
+            padding-left: 155px;
+            padding-right: 155px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-style: none;
+            background-color: #235623;
+            color: white;
+        }
+
+        .but2 {
+            display: block;
+            text-align: center;
+            padding-left: 150px;
+            padding-right: 150px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-style: none;
+            background-color: #235623;
+            color: white;
+            margin-bottom: 30px;;
+        }
+
+        .end {
+
+            display: inline;
+            color: #5353de;
+            font-weight: bold;
+            margin-bottom: 90px;
+            margin-top: 60px;
+            padding-right: 5px;
+            padding-left: 40px;
+        }
+
+        .end1 {
+            display: inline;
+            color: #5353de;
+            margin-bottom: 90px;
+            font-weight: bold;
+            padding-left: 90px;
+
+        }
+
+        .first {
+            font-weight: bold;
+
+
+
+        }
+        
